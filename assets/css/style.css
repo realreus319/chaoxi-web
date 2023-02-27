@@ -1241,7 +1241,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b39c9', end
     padding-bottom: 325px;
 }
 section.app-video {
-    background-image: url(https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2410&q=80);
+    background-image: url(../img/video/background-image.png);
     background-size: cover;
     background-position: 0% 78%;
     background-repeat: no-repeat;
